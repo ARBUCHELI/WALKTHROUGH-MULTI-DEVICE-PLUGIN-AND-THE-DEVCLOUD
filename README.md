@@ -180,6 +180,6 @@ In this step, we unpack the compressed file using <code>!tar zxf</code> and read
 <code>!cat stdout.log</code>
 <code>!cat stderr.log</code>
 
-# Adaptation as a Repository: Andrés R. Bucheli.
+## Adaptation as a Repository: Andrés R. Bucheli.
 
 
